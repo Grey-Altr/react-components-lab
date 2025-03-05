@@ -42,9 +42,11 @@ const App = () => {
   return (
     <>
       <h1>Local Weather</h1>
-      <section>
-        
-      </section>
+      <main>
+        <section>
+          
+        </section>
+      </main>
     </>
   );
 };
